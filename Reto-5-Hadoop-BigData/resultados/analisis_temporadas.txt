@@ -1,0 +1,4 @@
+Primavera	6463	31.59
+Otoño	6377	31.37
+Verano	6241	31.21
+Invierno	6144	31.31
