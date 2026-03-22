@@ -1,0 +1,902 @@
+[
+  {
+    "cliente_id": "CLI001",
+    "nombre": "Javier",
+    "apellido": "Jiménez",
+    "email": "cliente1@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-07-04",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI002",
+    "nombre": "Laura",
+    "apellido": "Díaz",
+    "email": "cliente2@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-02-16",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI003",
+    "nombre": "Juan",
+    "apellido": "López",
+    "email": "cliente3@email.com",
+    "ciudad": "Valencia",
+    "fecha_registro": "2024-12-14",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI004",
+    "nombre": "Roberto",
+    "apellido": "Martínez",
+    "email": "cliente4@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-07-14",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI005",
+    "nombre": "Beatriz",
+    "apellido": "González",
+    "email": "cliente5@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-12-14",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI006",
+    "nombre": "Fernando",
+    "apellido": "Flores",
+    "email": "cliente6@email.com",
+    "ciudad": "Zaragoza",
+    "fecha_registro": "2024-11-24",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI007",
+    "nombre": "Juan",
+    "apellido": "González",
+    "email": "cliente7@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-03-21",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI008",
+    "nombre": "Ana",
+    "apellido": "Ramírez",
+    "email": "cliente8@email.com",
+    "ciudad": "Zaragoza",
+    "fecha_registro": "2024-09-13",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI009",
+    "nombre": "Beatriz",
+    "apellido": "Jiménez",
+    "email": "cliente9@email.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2024-11-16",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI010",
+    "nombre": "Beatriz",
+    "apellido": "Torres",
+    "email": "cliente10@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-03-19",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI011",
+    "nombre": "Pedro",
+    "apellido": "Díaz",
+    "email": "cliente11@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-11-02",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI012",
+    "nombre": "Antonio",
+    "apellido": "García",
+    "email": "cliente12@email.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2024-07-04",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI013",
+    "nombre": "Diego",
+    "apellido": "García",
+    "email": "cliente13@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-10-17",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI014",
+    "nombre": "María",
+    "apellido": "Ramírez",
+    "email": "cliente14@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-02-05",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI015",
+    "nombre": "Laura",
+    "apellido": "Ruiz",
+    "email": "cliente15@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-10-08",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI016",
+    "nombre": "Carmen",
+    "apellido": "Díaz",
+    "email": "cliente16@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-04-18",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI017",
+    "nombre": "Luis",
+    "apellido": "Rodríguez",
+    "email": "cliente17@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-08-12",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI018",
+    "nombre": "Juan",
+    "apellido": "Sánchez",
+    "email": "cliente18@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-02-02",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI019",
+    "nombre": "Ana",
+    "apellido": "Torres",
+    "email": "cliente19@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-10-28",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI020",
+    "nombre": "Ana",
+    "apellido": "Martínez",
+    "email": "cliente20@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-04-27",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI021",
+    "nombre": "Carlos",
+    "apellido": "Morales",
+    "email": "cliente21@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-02-06",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI022",
+    "nombre": "Carmen",
+    "apellido": "Ruiz",
+    "email": "cliente22@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-04-19",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI023",
+    "nombre": "Patricia",
+    "apellido": "Torres",
+    "email": "cliente23@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-05-04",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI024",
+    "nombre": "Javier",
+    "apellido": "Sánchez",
+    "email": "cliente24@email.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2024-02-19",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI025",
+    "nombre": "Miguel",
+    "apellido": "Rodríguez",
+    "email": "cliente25@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-08-27",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI026",
+    "nombre": "Juan",
+    "apellido": "García",
+    "email": "cliente26@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-06-22",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI027",
+    "nombre": "Diego",
+    "apellido": "Sánchez",
+    "email": "cliente27@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-10-01",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI028",
+    "nombre": "Laura",
+    "apellido": "Rodríguez",
+    "email": "cliente28@email.com",
+    "ciudad": "Valencia",
+    "fecha_registro": "2024-05-22",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI029",
+    "nombre": "Diego",
+    "apellido": "Morales",
+    "email": "cliente29@email.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2024-08-14",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI030",
+    "nombre": "Carlos",
+    "apellido": "Ruiz",
+    "email": "cliente30@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-02-17",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI031",
+    "nombre": "Pedro",
+    "apellido": "Rodríguez",
+    "email": "cliente31@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-09-03",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI032",
+    "nombre": "Isabel",
+    "apellido": "Jiménez",
+    "email": "cliente32@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-03-25",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI033",
+    "nombre": "Ana",
+    "apellido": "Rodríguez",
+    "email": "cliente33@email.com",
+    "ciudad": "Zaragoza",
+    "fecha_registro": "2024-08-20",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI034",
+    "nombre": "Javier",
+    "apellido": "Ramírez",
+    "email": "cliente34@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-03-20",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI035",
+    "nombre": "Luis",
+    "apellido": "Sánchez",
+    "email": "cliente35@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-10-23",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI036",
+    "nombre": "Elena",
+    "apellido": "García",
+    "email": "cliente36@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-10-26",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI037",
+    "nombre": "Beatriz",
+    "apellido": "Jiménez",
+    "email": "cliente37@email.com",
+    "ciudad": "Valencia",
+    "fecha_registro": "2024-01-30",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI038",
+    "nombre": "Pedro",
+    "apellido": "Martínez",
+    "email": "cliente38@email.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2024-12-11",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI039",
+    "nombre": "Isabel",
+    "apellido": "Martínez",
+    "email": "cliente39@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-10-23",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI040",
+    "nombre": "Roberto",
+    "apellido": "Martínez",
+    "email": "cliente40@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-12-02",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI041",
+    "nombre": "Carmen",
+    "apellido": "Sánchez",
+    "email": "cliente41@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-05-02",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI042",
+    "nombre": "Isabel",
+    "apellido": "López",
+    "email": "cliente42@email.com",
+    "ciudad": "Zaragoza",
+    "fecha_registro": "2024-08-22",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI043",
+    "nombre": "María",
+    "apellido": "García",
+    "email": "cliente43@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-11-14",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI044",
+    "nombre": "María",
+    "apellido": "Díaz",
+    "email": "cliente44@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-09-16",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI045",
+    "nombre": "Laura",
+    "apellido": "Jiménez",
+    "email": "cliente45@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-02-05",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI046",
+    "nombre": "Miguel",
+    "apellido": "González",
+    "email": "cliente46@email.com",
+    "ciudad": "Valencia",
+    "fecha_registro": "2024-08-12",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI047",
+    "nombre": "Roberto",
+    "apellido": "Flores",
+    "email": "cliente47@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-12-07",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI048",
+    "nombre": "Juan",
+    "apellido": "Jiménez",
+    "email": "cliente48@email.com",
+    "ciudad": "Valencia",
+    "fecha_registro": "2024-05-15",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI049",
+    "nombre": "Juan",
+    "apellido": "Ramírez",
+    "email": "cliente49@email.com",
+    "ciudad": "Valencia",
+    "fecha_registro": "2024-05-19",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI050",
+    "nombre": "Roberto",
+    "apellido": "Sánchez",
+    "email": "cliente50@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-04-14",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI051",
+    "nombre": "Beatriz",
+    "apellido": "Fernández",
+    "email": "cliente51@email.com",
+    "ciudad": "Zaragoza",
+    "fecha_registro": "2024-01-27",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI052",
+    "nombre": "Javier",
+    "apellido": "Morales",
+    "email": "cliente52@email.com",
+    "ciudad": "Zaragoza",
+    "fecha_registro": "2024-01-23",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI053",
+    "nombre": "Elena",
+    "apellido": "Flores",
+    "email": "cliente53@email.com",
+    "ciudad": "Valencia",
+    "fecha_registro": "2024-11-22",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI054",
+    "nombre": "Pedro",
+    "apellido": "Ramírez",
+    "email": "cliente54@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-10-09",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI055",
+    "nombre": "Fernando",
+    "apellido": "García",
+    "email": "cliente55@email.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2024-02-08",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI056",
+    "nombre": "Fernando",
+    "apellido": "García",
+    "email": "cliente56@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-10-25",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI057",
+    "nombre": "Javier",
+    "apellido": "López",
+    "email": "cliente57@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-06-06",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI058",
+    "nombre": "Carlos",
+    "apellido": "Jiménez",
+    "email": "cliente58@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-04-17",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI059",
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "email": "cliente59@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-11-13",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI060",
+    "nombre": "Diego",
+    "apellido": "Morales",
+    "email": "cliente60@email.com",
+    "ciudad": "Valencia",
+    "fecha_registro": "2024-03-31",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI061",
+    "nombre": "Ana",
+    "apellido": "López",
+    "email": "cliente61@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-07-29",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI062",
+    "nombre": "Carmen",
+    "apellido": "López",
+    "email": "cliente62@email.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2024-07-14",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI063",
+    "nombre": "Antonio",
+    "apellido": "Sánchez",
+    "email": "cliente63@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-08-23",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI064",
+    "nombre": "Luis",
+    "apellido": "Morales",
+    "email": "cliente64@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-04-24",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI065",
+    "nombre": "Sofía",
+    "apellido": "Rodríguez",
+    "email": "cliente65@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-05-22",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI066",
+    "nombre": "Carmen",
+    "apellido": "Pérez",
+    "email": "cliente66@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-12-13",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI067",
+    "nombre": "Ana",
+    "apellido": "Martínez",
+    "email": "cliente67@email.com",
+    "ciudad": "Zaragoza",
+    "fecha_registro": "2024-04-01",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI068",
+    "nombre": "Carlos",
+    "apellido": "Martínez",
+    "email": "cliente68@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-06-25",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI069",
+    "nombre": "Javier",
+    "apellido": "Torres",
+    "email": "cliente69@email.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2024-07-16",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI070",
+    "nombre": "Carmen",
+    "apellido": "García",
+    "email": "cliente70@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-01-01",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI071",
+    "nombre": "Miguel",
+    "apellido": "Rodríguez",
+    "email": "cliente71@email.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2024-12-06",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI072",
+    "nombre": "Roberto",
+    "apellido": "Pérez",
+    "email": "cliente72@email.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2024-06-02",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI073",
+    "nombre": "Javier",
+    "apellido": "Pérez",
+    "email": "cliente73@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-12-22",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI074",
+    "nombre": "Fernando",
+    "apellido": "López",
+    "email": "cliente74@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-08-03",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI075",
+    "nombre": "Pedro",
+    "apellido": "Torres",
+    "email": "cliente75@email.com",
+    "ciudad": "Zaragoza",
+    "fecha_registro": "2024-07-26",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI076",
+    "nombre": "Luis",
+    "apellido": "González",
+    "email": "cliente76@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-08-08",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI077",
+    "nombre": "Raquel",
+    "apellido": "Fernández",
+    "email": "cliente77@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-12-11",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI078",
+    "nombre": "Beatriz",
+    "apellido": "Fernández",
+    "email": "cliente78@email.com",
+    "ciudad": "Valencia",
+    "fecha_registro": "2024-12-03",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI079",
+    "nombre": "Luis",
+    "apellido": "Díaz",
+    "email": "cliente79@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-02-17",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI080",
+    "nombre": "Luis",
+    "apellido": "Sánchez",
+    "email": "cliente80@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-03-16",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI081",
+    "nombre": "Carlos",
+    "apellido": "Sánchez",
+    "email": "cliente81@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-11-08",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI082",
+    "nombre": "Raquel",
+    "apellido": "Rodríguez",
+    "email": "cliente82@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-12-22",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI083",
+    "nombre": "Antonio",
+    "apellido": "Rodríguez",
+    "email": "cliente83@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-03-16",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI084",
+    "nombre": "Juan",
+    "apellido": "Flores",
+    "email": "cliente84@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-04-22",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI085",
+    "nombre": "Beatriz",
+    "apellido": "Fernández",
+    "email": "cliente85@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-10-12",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI086",
+    "nombre": "Juan",
+    "apellido": "Fernández",
+    "email": "cliente86@email.com",
+    "ciudad": "Valencia",
+    "fecha_registro": "2024-08-25",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI087",
+    "nombre": "Raquel",
+    "apellido": "Torres",
+    "email": "cliente87@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-10-07",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI088",
+    "nombre": "Pedro",
+    "apellido": "Ramírez",
+    "email": "cliente88@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-08-18",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI089",
+    "nombre": "Diego",
+    "apellido": "Morales",
+    "email": "cliente89@email.com",
+    "ciudad": "Zaragoza",
+    "fecha_registro": "2024-09-23",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI090",
+    "nombre": "Diego",
+    "apellido": "González",
+    "email": "cliente90@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-02-09",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI091",
+    "nombre": "Diego",
+    "apellido": "González",
+    "email": "cliente91@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-06-12",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI092",
+    "nombre": "Laura",
+    "apellido": "López",
+    "email": "cliente92@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-07-15",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI093",
+    "nombre": "Sofía",
+    "apellido": "Martínez",
+    "email": "cliente93@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-07-27",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI094",
+    "nombre": "Fernando",
+    "apellido": "Fernández",
+    "email": "cliente94@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-02-01",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI095",
+    "nombre": "Javier",
+    "apellido": "Rodríguez",
+    "email": "cliente95@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-10-21",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI096",
+    "nombre": "Antonio",
+    "apellido": "García",
+    "email": "cliente96@email.com",
+    "ciudad": "Málaga",
+    "fecha_registro": "2024-06-01",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI097",
+    "nombre": "Javier",
+    "apellido": "Díaz",
+    "email": "cliente97@email.com",
+    "ciudad": "Sevilla",
+    "fecha_registro": "2024-09-06",
+    "es_premium": true
+  },
+  {
+    "cliente_id": "CLI098",
+    "nombre": "Carmen",
+    "apellido": "Rodríguez",
+    "email": "cliente98@email.com",
+    "ciudad": "Murcia",
+    "fecha_registro": "2024-01-15",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI099",
+    "nombre": "Elena",
+    "apellido": "Ruiz",
+    "email": "cliente99@email.com",
+    "ciudad": "Bilbao",
+    "fecha_registro": "2024-03-25",
+    "es_premium": false
+  },
+  {
+    "cliente_id": "CLI100",
+    "nombre": "Laura",
+    "apellido": "Torres",
+    "email": "cliente100@email.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2024-07-20",
+    "es_premium": true
+  }
+]

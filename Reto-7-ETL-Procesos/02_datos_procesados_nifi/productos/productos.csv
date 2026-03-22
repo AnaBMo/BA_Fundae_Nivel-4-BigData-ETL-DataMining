@@ -1,0 +1,51 @@
+producto_id,nombre,categoria,precio,stock_inicial
+PROD001,Auriculares Bluetooth,Electrónica,56.56,26
+PROD002,Mouse Inalámbrico,Electrónica,63.2,82
+PROD003,Teclado Mecánico,Electrónica,29.51,46
+PROD004,Webcam HD,Electrónica,58.99,159
+PROD005,Cable USB-C,Electrónica,20.65,128
+PROD006,Cargador Portátil,Electrónica,17.07,43
+PROD007,Memoria USB 32GB,Electrónica,29.21,149
+PROD008,Hub USB,Electrónica,54.13,163
+PROD009,Adaptador HDMI,Electrónica,27.92,186
+PROD010,Lámpara LED,Electrónica,60.59,127
+PROD011,Camiseta Básica,Ropa,22.58,170
+PROD012,Jeans Clásicos,Ropa,25.35,21
+PROD013,Sudadera con Capucha,Ropa,48.42,60
+PROD014,Zapatillas Deportivas,Ropa,45.51,107
+PROD015,Chaqueta Impermeable,Ropa,25.34,75
+PROD016,Gorra Deportiva,Ropa,57.95,106
+PROD017,Calcetines Pack 3,Ropa,16.91,117
+PROD018,Bufanda Lana,Ropa,16.64,108
+PROD019,Guantes Invierno,Ropa,40.98,31
+PROD020,Cinturón Cuero,Ropa,47.03,157
+PROD021,Juego Sábanas,Hogar,13.24,116
+PROD022,Toallas Pack 4,Hogar,11.31,95
+PROD023,Cojín Decorativo,Hogar,42.83,178
+PROD024,Cortinas Blackout,Hogar,45.19,112
+PROD025,Alfombra Sala,Hogar,32.25,200
+PROD026,Lámpara Mesa,Hogar,10.92,189
+PROD027,Espejo Pared,Hogar,17.57,94
+PROD028,Reloj Pared,Hogar,49.38,79
+PROD029,Marco Fotos,Hogar,44.39,117
+PROD030,Velas Aromáticas Pack 3,Hogar,19.67,182
+PROD031,Botella Agua 1L,Deportes,39.19,61
+PROD032,Yoga Mat,Deportes,22.96,73
+PROD033,Pesas 2kg Par,Deportes,33.46,199
+PROD034,Cuerda Saltar,Deportes,42.78,185
+PROD035,Banda Elástica,Deportes,12.5,182
+PROD036,Guantes Gym,Deportes,15.99,82
+PROD037,Mochila Deportiva,Deportes,15.72,117
+PROD038,Toalla Microfibra,Deportes,19.45,183
+PROD039,Rodilleras,Deportes,34.09,76
+PROD040,Cronómetro Digital,Deportes,33.96,34
+PROD041,Novela Misterio,Libros,15.73,28
+PROD042,Libro Cocina,Libros,30.13,122
+PROD043,Guía Viajes Europa,Libros,16.69,74
+PROD044,Biografía Histórica,Libros,32.83,165
+PROD045,Manual Python,Libros,31.91,100
+PROD046,Libro Autoayuda,Libros,15.32,147
+PROD047,Cómic Aventuras,Libros,19.89,184
+PROD048,Enciclopedia Natural,Libros,21.47,87
+PROD049,Poesía Clásica,Libros,13.49,163
+PROD050,Thriller Político,Libros,23.47,169
