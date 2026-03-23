@@ -218,3 +218,51 @@ __marimo__/
 *.tmp
 *.bak
 ```
+
+# ==========================================
+# DATASETS Y ARCHIVOS DE DATOS
+# ==========================================
+# No subir archivos de datos grandes a Git
+# Solo documentar su origen en README.md
+
+# Archivos CSV
+*.csv
+
+# Archivos Excel
+*.xlsx
+*.xls
+
+# Archivos JSON de datos (excepto configs pequeños)
+**/data/*.json
+**/datos_*.json
+clientes.json
+
+# Archivos de bases de datos
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos Parquet
+*.parquet
+
+# Archivos de datos procesados
+**/datos_procesados/*.csv
+**/datos_fuente/*.csv
+**/02_datos_procesados_nifi/*.csv
+**/01_datos_fuente/*.csv
+
+# ==========================================
+# MODELOS ENTRENADOS (pueden ser pesados)
+# ==========================================
+*.pkl
+*.h5
+*.joblib
+*.rds
+*.model
+
+# ==========================================
+# ARCHIVOS TEMPORALES Y OUTPUTS
+# ==========================================
+**/temp/
+**/temporal/
+*.tmp
